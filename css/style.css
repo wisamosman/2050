@@ -1,21 +1,113 @@
 body{
-    background-color: #4741AF;
+    
     color: white;
     
 }
+.ana{
+    background-color: #4741AF;
+}
 .navbar-brand{
+
+
+    margin-left: -40px;
     font-size: 40px;
     font-weight: 900;
+    color: white;
 }
 .navbar{
+    
     font-size: 20px;
     font-weight: 800;
     margin-top: 20px;
 }
-.im{
-    margin-top: 80px;
 
+.nav-link{
+    
+    color: white;
 }
-.is[
-    ms
-]
+.my-name{
+    
+    font-size: 74px;
+    font-weight: 900;
+}
+.myname1{
+    margin-top: 40px;
+}
+p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.myname2{
+    
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    margin: 40px opx 40px 0px;
+    background-color: #6C63FF;
+    border-radius: 28px;
+    padding: 3px 5px 3px 5px;
+    color: white;
+    
+    
+}
+.myname2:hover{
+    color: #4741AF;
+    background-color: #FFFFFF
+    
+}
+.img-fluid{
+    margin-left: 25px;
+}
+.ana1{
+    height: 500px;
+    width: 580px;
+    margin-top: 140px;
+    margin-left: -76px;
+}
+.ana2{
+    color: #4741AF;
+    margin-top: 140px;
+    margin-left: ;
+    font-size: 30px;
+    font-weight: 700;
+}
+.ana3{
+    color: black;
+    
+    margin-left: px;
+    font-size: 40px;
+    font-weight: 900;
+}
+.ana4{
+    color: black;
+}
+.ana5{
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+.ana6{margin-top: 130px;
+    border-radius: 50%;
+    background-color: #F3F9FB;
+    
+}
+.ana7{
+    margin-top: -190px;
+}
+.ana9{
+    color: #4741AF;
+    font-size: 25px;
+    font-weight: 800;
+    margin-top: 100px;
+}
+.ana8{
+    color: black;
+    font-size: 35px;
+    font-weight: 700;
+}
+.ana11{
+    color: black;
+    padding: 100px;
+    background-color: red;
+}
