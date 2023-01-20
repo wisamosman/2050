@@ -89,7 +89,7 @@ p{
 }
 .ana6{margin-top: 130px;
     border-radius: 50%;
-    background-color: #F3F9FB;
+    background-color: mistyrose;
     
 }
 .ana7{
@@ -100,14 +100,89 @@ p{
     font-size: 25px;
     font-weight: 800;
     margin-top: 100px;
+    margin: 0px 0px 18px -18px;
 }
 .ana8{
     color: black;
     font-size: 35px;
     font-weight: 700;
+    margin: 0px 0px 18px -18px;
 }
 .ana11{
     color: black;
     padding: 100px;
     background-color: red;
+}
+.hu1{
+    
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+    margin: -5px 0px 16px -56px;
+}
+.hu2{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    margin: -5px -33px 5px -56px;
+}
+.hu3{
+    padding: 63px 49px 30px 62px;
+    background-color: #FFFFFF;
+    margin: 7px 18px 0px -18px;
+}
+.bi{
+    background-color: #4741AF;
+    margin: -68px 1px 1px -58px;
+    color: white;
+    border-radius: 42%;
+    padding: 4px;
+}
+.hu6{
+    color: black;
+    padding: 63px 49px 30px 62px;
+    background-color: #FFFFFF;
+    margin: 20px 18px 0px -18px;
+    
+}
+.hu4{
+    font-size: 20px;
+    font-weight: 800;
+    color: black;
+    margin: -5px 0px 16px -56px;
+    
+}
+.hu5{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+    margin: -5px -33px 5px -56px;
+    
+}
+.bi1{
+    background-color: #4741AF;
+    margin: -68px 1px 1px -58px;
+    color: white;
+    border-radius: 42%;
+    padding: 4px;
+}
+.ahmad2{
+    margin-left: -55px;
+}
+.ahmad3{
+    margin-top: 92px;
+    font-size: 25px;
+    font-weight: 700;
+    color: blue;
+}
+.ahmad4{
+    font-size: 44px;
+    font-weight: 700;
+    color: black;
+}
+.ibr1{
+    margin-top: 20px;
+    font-size: 17px;
+    font-weight: 500;
+    color: black;
 }
