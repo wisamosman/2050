@@ -4,6 +4,7 @@ body{
     
 }
 .ana{
+    margin: -22px;
     background-color: #4741AF;
 }
 .navbar-brand{
@@ -45,7 +46,7 @@ p{
     margin: 40px opx 40px 0px;
     background-color: #6C63FF;
     border-radius: 28px;
-    padding: 3px 5px 3px 5px;
+    padding: 6px 10px 6px 10px;
     color: white;
     
     
